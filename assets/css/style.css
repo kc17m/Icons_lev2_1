@@ -1,0 +1,49 @@
+section {
+   width: 100vw;
+   margin: 20% auto 0 0;
+   text-align: center;
+}
+
+article {
+    width: 100vw;
+    margin: 5% auto;
+    text-align: center;
+    
+}
+
+div {
+    display: inline-block;
+    padding: 1%;
+
+}
+
+i {
+    font-size: 3em;
+    width: 5%;
+
+}
+
+.fa-facebook-square {
+    color: #1877F2;
+}
+
+.fa-instagram {
+    color: #E4405F;
+}
+
+
+.fa-youtube-square {
+    color: #CD201F;
+}
+
+.fa-linkedin-in {
+    color: #E4405F;
+}
+
+.fa-whatsapp {
+    color: #25D366;
+}
+
+
+
+
